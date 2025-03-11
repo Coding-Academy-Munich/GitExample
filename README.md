@@ -1,6 +1,6 @@
 # GitExample
 
-This is a sample project to demonstrate git branching and merging.
+This is a sample project to demonstrate git branching and merging. And remote branches.
 
 ## Another heading
 
