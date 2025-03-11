@@ -9,3 +9,5 @@ The code is in the `main` folder. Documentation is in the `docs` folder.
 - Siddharth
 - Ankit
 - Anshul
+- John
+- Jane
